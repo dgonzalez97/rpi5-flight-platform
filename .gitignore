@@ -1,0 +1,6 @@
+.vscode/
+build/
+tmp/
+.cache/
+*.swp
+*.swo
